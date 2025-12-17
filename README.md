@@ -82,11 +82,5 @@ To run, type this in the terminal :
 
 <code>Bash</code>
 ```bash
-git clone https://github.com/Marvellbrazil/notify-sholat.git
-cd notify-sholat
-
-python -m venv venv
-venv\Scripts\activate
-
-pip install requests pytz winotify playsound
+python main.py
 ```
