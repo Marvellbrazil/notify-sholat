@@ -16,7 +16,7 @@
   <a href="https://github.com/Marvellbrazil/mypygui/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Marvellbrazil/mypygui?style=for-the-badge"/></a>
 </p>
 
-A simple Python program designed to remind Muslims of their five daily prayers while working on a laptop.
+A simple Python project created to help Muslims stay mindful of their five daily prayers while working on a laptop. It runs quietly in the background, checking prayer times based on your location and sending a gentle reminder so you don’t lose track of time during busy activities. The idea is straightforward, to keep focus on your work, but never forget the call to prayer.
 
 ---
 
