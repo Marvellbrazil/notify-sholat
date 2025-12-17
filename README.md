@@ -25,12 +25,7 @@ A simple Python project created to help Muslims stay mindful of their five daily
 - [Overview](#overview)
 - [Technologies](#technologies)
 - [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
+- [How to Run](#run)
 
 ---
 
